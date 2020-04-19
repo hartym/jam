@@ -2,8 +2,8 @@
 
 ## Téléchargement et installation
 
-* Pour Windows : https://sourceforge.net/projects/llcon/files/Jamulus/3.5.0/Jamulus-3.5.0-installer.exe/download
-* Pour Mac : https://sourceforge.net/projects/llcon/files/Jamulus/3.5.0/Jamulus-3.5.0-mac.zip/download
+* Pour Windows : https://sourceforge.net/projects/llcon/files/Jamulus/3.5.1/Jamulus-3.5.1-installer.exe/download
+* Pour Mac : https://sourceforge.net/projects/llcon/files/Jamulus/3.5.1/Jamulus-3.5.1-mac.zip/download
 
 Il suffit normalement de lancer le fichier pour installer le soft.
 
