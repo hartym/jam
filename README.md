@@ -47,4 +47,4 @@ Les paramètres disponibles sont assez limités mais les voici :
 
 ## Gotchas
 
-- Il faut jouer avec le feedback qui provient de Jamulus, et ne pas utiliser le "monitoring" local ou le son de l'ampli en direct, pour jouer "avec" la latence.
+J'ai essayé plusieurs manières pour "monitorer" mon propre son et je pense qu'il vaut mieux couper le retour jamulus et écouter son propre son, local, sans latence (mon avis initial était le contraire mais en fait c'est beaucoup plus confortable de cette manière).
